@@ -29,6 +29,4 @@ GeoName: Name of the state.
 2012, 2013, ..., 2024: Columns containing per capita income and education rate data for the respective years.
 
 
-# DOI
-10.5281/zenodo.14278801
 
